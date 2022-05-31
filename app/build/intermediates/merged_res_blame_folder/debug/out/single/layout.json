@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.mobelite_community.app-mergeDebugResources-39:/layout/grid_item.xml",
+        "source": "com.example.mobelite_community.app-main-42:/layout/grid_item.xml"
+    },
+    {
+        "merged": "com.example.mobelite_community.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "com.example.mobelite_community.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mobelite_community.app-mergeDebugResources-39:/layout/activity_detail_screen.xml",
+        "source": "com.example.mobelite_community.app-main-42:/layout/activity_detail_screen.xml"
+    },
+    {
+        "merged": "com.example.mobelite_community.app-mergeDebugResources-39:/layout/post_item.xml",
+        "source": "com.example.mobelite_community.app-main-42:/layout/post_item.xml"
+    },
+    {
+        "merged": "com.example.mobelite_community.app-mergeDebugResources-39:/layout/activity_picture_full_screen.xml",
+        "source": "com.example.mobelite_community.app-main-42:/layout/activity_picture_full_screen.xml"
+    }
+]
